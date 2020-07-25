@@ -1,6 +1,8 @@
 
 # React Native Instagram Clone
 
+https://www.youtube.com/watch?v=uXKZ3sGw7oE&feature=youtu.be
+
 ## Don't forget give me a star if you like it 😅😅 😊😊
 
 The 2nd project what I did with React Native.
